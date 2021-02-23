@@ -1,8 +1,8 @@
 # AngularCLI
-Login / Reset Password / Forgot Password Components &amp; APIS - Freelance job
+Login / Reset Password / Forgot Password Components & fetching APIS & Tokens - Freelance job
 
 # TypeScript
-# SCCS - Bootstramp 
+# SCCS - Bootstrap 
 # APIS - Swager 
 # Angular
 
